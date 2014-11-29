@@ -1,0 +1,32 @@
+{
+  "name": "yoping",
+  "version": "0.0.0",
+  "description": "Command line YO",
+  "main": "app.js",
+  "dependencies": {
+    "yo-api": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/treebirg/yoping"
+  },
+  "keywords": [
+    "yo",
+    "cli",
+    "commandline",
+    "cmd",
+    "shell"
+  ],
+  "author": "treebirg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/treebirg/yoping/issues"
+  },
+  "bin":{
+    "yoping":"app.js"
+  }
+}
